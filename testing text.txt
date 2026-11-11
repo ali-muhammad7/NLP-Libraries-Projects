@@ -1,0 +1,43 @@
+====================================================
+TEST TEXTS - NLP LAB PROJECTS
+====================================================
+
+
+1) REGEX TESTER
+----------------------------------------------------
+Sample Text:
+My email is ali123@gmail.com and my phone number is 0300-1234567. Visit https://example.com for more info. Contact us at support@company.org.
+
+Try these patterns:
+- Email:  \w+@\w+\.\w+
+- Phone:  \d{4}-\d{7}
+- URL:    https?://\S+
+
+Contact us at support@company.com or sales@example.org. Call 0300-1234567 or 0321-9876543. Visit https://www.example.com or http://mysite.pk for details.
+
+
+2) NLTK TEXT ANALYZER
+----------------------------------------------------
+The children were playing happily in the beautiful garden. They enjoyed running, jumping, and laughing all afternoon under the warm summer sun.
+
+
+3) SPACY NLP TOOLKIT
+----------------------------------------------------
+Apple was founded by Steve Jobs in California in 1976. The company later became one of the most valuable technology businesses in the world.
+
+
+4) TEXTBLOB TEXT ANALYZER
+----------------------------------------------------
+I really love this amazing course, but the assignment was terible and confusing. The teacher explaned everything very well though.
+
+(Note: "terible" and "explaned" are spelled wrong on purpose, to test the Spelling Correction button.)
+
+
+5) TEXTACY TEXT INSIGHTS
+----------------------------------------------------
+Natural language processing is a fascinating field of artificial intelligence. It allows computers to understand, interpret, and generate human language. Researchers use machine learning models to build powerful applications like chatbots and translators. This technology continues to grow rapidly every single year.
+
+
+====================================================
+END OF FILE
+====================================================

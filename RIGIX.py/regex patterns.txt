@@ -1,0 +1,19 @@
+| Kaam              | Regex                  |
+| ----------------- | ---------------------- |
+| Numbers           | `\d+`                  |
+| One digit         | `\d`                   |
+| Letters           | `[A-Za-z]+`            |
+| Lowercase letters | `[a-z]+`               |
+| Uppercase letters | `[A-Z]+`               |
+| Letters + numbers | `[A-Za-z0-9]+`         |
+| Spaces            | `\s+`                  |
+| Any word          | `\w+`                  |
+| Email             | `[\w.-]+@[\w.-]+\.\w+` |
+| Phone number      | `03\d{9}`              |
+| CNIC              | `\d{5}-\d{7}-\d`       |
+| Hashtag           | `#\w+`                 |
+| Mention           | `@\w+`                 |
+| URL               | `https?://\S+`         |
+| Decimal number    | `\d+\.\d+`             |
+| Multiple words    | `\w+(?:\s+\w+)*`       |
+| Punctuation       | `[.,!?;:]`             |
