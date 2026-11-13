@@ -30,4 +30,6 @@ No external packages required.
 
 Run
 
+Author: Ali Muhammad
 python main.py
+
