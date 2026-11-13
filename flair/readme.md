@@ -24,7 +24,4 @@ No external packages required.
 python main.py
 ```
 
-## Note
-This is an educational simulation, not an actual Flair NLP implementation. It uses predefined sample data and rule-based logic rather than a trained machine learning model. Confidence scores are simulated.
-
-**Author:** Ali Muhammad
+Author: Ali Muhammad
