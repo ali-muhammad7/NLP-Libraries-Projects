@@ -27,7 +27,4 @@ No external packages required.
 python main.py
 ```
 
-## Note
-This is an educational simulation, not an actual PyTorch implementation. It does not use real neural network models or trained weights. NLP outputs are generated using demo logic.
-
 **Author:** Ali Muhammad
