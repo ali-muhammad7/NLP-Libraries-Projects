@@ -1,25 +1,29 @@
-# spaCy NLP Toolkit
+# PyNLPl Fruit Stand
 
-A simple GUI-based NLP application built with Python, spaCy, and Tkinter.
+A beginner-friendly NLP desktop application built with Python, Tkinter, and PyNLPl. It provides basic text-processing tools through an interactive fruit stand-themed interface.
 
 ## Features
-- **Tokenization:** Split text into words and tokens.
-- **POS Tagging:** Identify parts of speech.
-- **Named Entity Recognition:** Detect names, locations, organizations, etc.
-- **Lemmatization:** Convert words into their base forms.
-- **Sentence Segmentation:** Split text into sentences.
-- **Dependency Parsing:** Analyze grammatical relationships.
+- **N-Grams:** Generates word pairs (bigrams).
+- **Word Frequency:** Counts how often words appear.
+- **Levenshtein Distance:** Compares two words.
+- **Text Statistics:** Shows total words, unique words, average word length, and Type-Token Ratio.
+- Interactive GUI with Clear and Exit options.
 
 ## Technologies
 - Python
-- spaCy
+- PyNLPl
 - Tkinter
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
-python -m spacy download en_core_web_sm
+```
+
+Or install PyNLPl directly:
+
+```bash
+pip install pynlpl
 ```
 
 ## Run
@@ -28,8 +32,4 @@ python -m spacy download en_core_web_sm
 python main.py
 ```
 
-## Author
-**Ali Muhammad**  
-BS Artificial Intelligence Student
-
-[GitHub Profile](https://github.com/ali-muhammad7)
+**Author:** Ali Muhammad
